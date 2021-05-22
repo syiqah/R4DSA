@@ -1,7 +1,7 @@
 name: "R4DSA"
 title: "Visual Analytics by Nurulasyiqah"
 description: |
-  Visual Analytics by Nurulasyiqah
+  DataViz Blog
 output_dir: "_site"
 navbar:
   right:
